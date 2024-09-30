@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Dokumentasi Frontend
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Screenshot 2024-09-30 184747](https://github.com/user-attachments/assets/f7255522-47d5-494a-8d3b-16b7ac469b5e)
+![Screenshot 2024-09-30 184754](https://github.com/user-attachments/assets/f0d53c17-a2a6-4f32-aea3-16d312e00b50)
+![Screenshot 2024-09-30 184759](https://github.com/user-attachments/assets/bb55925e-e8c9-4ecc-aa48-1e0ae0ef799e)
+![Screenshot 2024-09-30 184810](https://github.com/user-attachments/assets/38bdffba-a6dc-4104-b634-43a57b511eaf)
+
 
 ## Available Scripts
 
